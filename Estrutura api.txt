@@ -1,0 +1,23 @@
+t/6784/n1/all/v/all /p/last%201/            d/v9810%201,v9811%201,v9812%202,v9813%202,v9814%201/l/v,p         ,t
+
+t/6784/n1/all/v/9808/p/last%201                                                                /l/v,p         ,t
+
+t/1621/n1/all/v/all/p/all    /c11255/all/  d/v584%202                                          /l/v,p%2Bc11255,t
+
+t/1621/n1/all/v/all/p/all    /c11255/90687/d/v584%202                                          /l/v,p%2Bc11255,t
+
+
+t/9590/n1/all/v/8862/p/last%201/c956/59983/c1719/71430/c1760/60187/c1724/60096/c1726/60099/l/v,p%2Bc956%2Bc1719%2Bc1760,t%2Bc1724%2Bc1726
+
+t/7060/n1/all/v/63/p/last%201/c315/7169/d/v63%202/l/v,p%2Bc315,t
+
+t/<id_tabela>/<NivelTerritorial>/<FiltroNivelTerritorial>/v/<id_variavel>/p/<periodo>/<c<id_calssificacao>>/<id_categorias>/d/v<id_variavel>%<formato>/l/v,p<%2Bc<id_classificacao>,t
+
+
+https://sidra.ibge.gov.br/geratabela?format=xlsx&name=tabela6784.xlsx&terr=N&rank=-&query=t/6784/n1/all/v/all/p/last%201/d/v9810%201,v9811%201,v9812%202,v9813%202,v9814%201/l/v,p,t
+
+https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/last%201/c315/7169/d/v63%202
+
+https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9808/p/last%201
+
+https://apisidra.ibge.gov.br/values/t/1621/n1/all/v/all/p/last%201/c11255/90687/d/v584%202
