@@ -1,0 +1,33 @@
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;anual;1996;2021
+1621;Série encadeada do índice de volume trimestral com ajuste sazonal (Base: média 1995 = 100);https://sidra.ibge.gov.br/tabela/1621;Contas Nacionais Trimestrais;Contas Nacionais e Regionais;trimestral;199601;202304
+2093;População residente por cor ou raça, sexo, situação do domicílio e grupos de idade - Amostra - Características Gerais da População;https://sidra.ibge.gov.br/tabela/2093;Censo Demográfico;Cor ou raça;anual;2000;2010
+tabela;nome;URL;pesquisa;assunto;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;anual;1996;2021
+tabela;nome;URL;pesquisa;assunto;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim
+1621;Série encadeada do índice de volume trimestral com ajuste sazonal (Base: média 1995 = 100);https://sidra.ibge.gov.br/tabela/1621;Contas Nacionais Trimestrais;Contas Nacionais e Regionais;trimestral;199601;202304
+tabela;nome;URL;pesquisa;assunto;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim
+2093;População residente por cor ou raça, sexo, situação do domicílio e grupos de idade - Amostra - Características Gerais da População;https://sidra.ibge.gov.br/tabela/2093;Censo Demográfico;Cor ou raça;anual;2000;2010
+tabela;nome;URL;pesquisa;assunto;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;anual;1996;2021
+tabela;nome;URL;pesquisa;assunto;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;anual;1996;2021
+tabela;nome;URL;pesquisa;assunto;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;anual;1996;2021
+tabela;nome;URL;pesquisa;assunto;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;anual;1996;2021
+tabela
+6784
+tabela
+1621
+tabela
+2093
+tabela
+6784
+tabela
+1621
+tabela
+2093
+tabela;nome;URL;pesquisa;assunto;variaveis;classificacoes;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim;nivelTerritorial.Administrativo;nivelTerritorial.Especial;nivelTerritorial.IBGE
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;[{'id': 9808, 'nome': 'PIB - valores correntes', 'unidade': 'Milhões de Reais', 'sumarizacao': []}, {'id': 9809, 'nome': 'PIB - preços do ano anterior', 'unidade': 'Milhões de Reais', 'sumarizacao': []}, {'id': 9810, 'nome': 'PIB - variação em volume', 'unidade': '%', 'sumarizacao': []}, {'id': 9811, 'nome': 'PIB - deflator - variação anual', 'unidade': '%', 'sumarizacao': []}, {'id': 93, 'nome': 'População residente', 'unidade': 'Mil pessoas', 'sumarizacao': []}, {'id': 9812, 'nome': 'PIB per capita - valores correntes', 'unidade': 'Reais', 'sumarizacao': []}, {'id': 9813, 'nome': 'PIB per capita - preços do ano anterior', 'unidade': 'Reais', 'sumarizacao': []}, {'id': 9814, 'nome': 'PIB per capita - variação em volume', 'unidade': '%', 'sumarizacao': []}];[];anual;1996;2021;['N1'];[];[]
+tabela;nome;URL;pesquisa;assunto;variaveis;classificacoes;periodicidade.frequencia;periodicidade.inicio;periodicidade.fim;nivelTerritorial.Administrativo;nivelTerritorial.Especial;nivelTerritorial.IBGE
+6784;Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator;https://sidra.ibge.gov.br/tabela/6784;Contas Nacionais Anuais;Geral;[{'id': 9808, 'nome': 'PIB - valores correntes', 'unidade': 'Milhões de Reais', 'sumarizacao': []}, {'id': 9809, 'nome': 'PIB - preços do ano anterior', 'unidade': 'Milhões de Reais', 'sumarizacao': []}, {'id': 9810, 'nome': 'PIB - variação em volume', 'unidade': '%', 'sumarizacao': []}, {'id': 9811, 'nome': 'PIB - deflator - variação anual', 'unidade': '%', 'sumarizacao': []}, {'id': 93, 'nome': 'População residente', 'unidade': 'Mil pessoas', 'sumarizacao': []}, {'id': 9812, 'nome': 'PIB per capita - valores correntes', 'unidade': 'Reais', 'sumarizacao': []}, {'id': 9813, 'nome': 'PIB per capita - preços do ano anterior', 'unidade': 'Reais', 'sumarizacao': []}, {'id': 9814, 'nome': 'PIB per capita - variação em volume', 'unidade': '%', 'sumarizacao': []}];[];anual;1996;2021;['N1'];[];[]
